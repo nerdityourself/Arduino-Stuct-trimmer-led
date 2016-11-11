@@ -1,1 +1,1 @@
-# Arduino-Stuct-trimmer-led
+# Arduino-Example struct with trimmers
